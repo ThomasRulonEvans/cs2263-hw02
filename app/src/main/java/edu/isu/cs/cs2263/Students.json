@@ -1,0 +1,65 @@
+ [
+    {
+      "firstName": "Jeff",
+      "lastName": "Feff",
+      "courseList": [
+        {
+          "subject": "CS",
+          "number": "2263",
+          "title": "Advanced oop"
+        },
+        {
+          "subject": "CS",
+          "number": "2264",
+          "title": "Advanced oop2"
+        },
+        {
+          "subject": "CS",
+          "number": "2265",
+          "title": "Advanced oop again"
+        }
+      ]
+    },
+    {
+      "firstName": "Heff",
+      "lastName": "Seff",
+      "courseList": [
+        {
+          "subject": "Math",
+          "number": "1120",
+          "title": "mathss"
+        },
+        {
+          "subject": "Mktg",
+          "number": "1995",
+          "title": "marketing"
+        },
+        {
+          "subject": "math",
+          "number": "2000",
+          "title": "one more math"
+        }
+      ]
+    },
+    {
+      "firstName": "Jeffery",
+      "lastName": "Feffery",
+      "courseList": [
+        {
+          "subject": "CS",
+          "number": "2263",
+          "title": "Advanced oop"
+        },
+        {
+          "subject": "ENG",
+          "number": "2202",
+          "title": "english"
+        },
+        {
+          "subject": "CS",
+          "number": "1181",
+          "title": "computers"
+        }
+      ]
+    }
+ ]
